@@ -1,3 +1,3 @@
 # meetup-fcamara
 
-Explos criados para o meetup na FCamara
+Exemplo criado para demo do meetup na FCamara
